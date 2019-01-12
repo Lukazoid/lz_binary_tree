@@ -1,0 +1,8 @@
+[package]
+name = "lz_binary_tree"
+version = "0.1.0"
+authors = ["Luke Horsley <luke.horsley@alpha9software.com>"]
+edition = "2018"
+
+[dependencies]
+lz_eytzinger_tree = "0.1.0"
